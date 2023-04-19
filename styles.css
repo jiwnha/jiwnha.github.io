@@ -1,0 +1,21 @@
+h1 {
+    font-family: Arial;
+    font-size: 60px;
+}
+
+.container{
+    width: 490px;
+    height: 400px;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left: 0;
+    right: 0;
+        
+    margin: auto;
+}
+
+p {
+    font-family: Arial;
+    font-size: 25px;
+}
